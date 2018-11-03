@@ -1,0 +1,4 @@
+.github/
+.stryker-tmp/
+coverage/
+node_modules/
